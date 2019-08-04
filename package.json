@@ -1,0 +1,24 @@
+{
+    "name": "work",
+    "version": "1.0.0",
+    "description": " \"Pico y Placa\" predictor",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Magol28/PicoPlaca.git"
+    },
+    "author": "Miguel Angel Guaño Ochoa",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Magol28/PicoPlaca/issues"
+    },
+    "homepage": "https://github.com/Magol28/PicoPlaca#readme",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.2.0",
+        "moment": "^2.24.0"
+    }
+}
