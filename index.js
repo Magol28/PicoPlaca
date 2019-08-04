@@ -1,11 +1,9 @@
-const moment = require('moment');
 const { isValidTime, isPicoPlacaApplied, isPicoPlacaDay, isNewPicoPlacaSchedule } = require('./functions/app');
 
 const date = '2019-09-06';
 const plate = 'ABC-1230';
 const time = '10:00:00'
 
-const currentTime = moment();
 
 if (!isPicoPlacaDay(date)) {
     console.log('the car is allowed to travel ');
