@@ -18,7 +18,7 @@ to get the hours and the schedules for the statement. It means :
 2. **Tuesday** : Vehicles with plates finished in 3 and 4 are no able to travel.
 3. **Wednesday** : Vehicles with plates finished in 5 and 6 are no able to travel.
 4. **Thursday** : Vehicles with plates finished in 7 and 8 are no able to travel.
-5. **Friday** : Vehicles with plates finished in 9 and 9 are no able to travel.
+5. **Friday** : Vehicles with plates finished in 9 and 0 are no able to travel.
 
 Nowadays, we have 2 'Pico y Placa', the first said that Vehicles are no allow to travel between
 5:00 to 20:00. However, it only works between 2019-09-02 to 2020-05-03.The another one has two schedule
